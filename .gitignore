@@ -1,0 +1,18 @@
+# secrets (examples are fine, real .env files are not)
+.env
+*.env
+!.env.example
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+dist/
+build/
+
+# os
+.DS_Store
