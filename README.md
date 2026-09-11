@@ -1,4 +1,4 @@
-# 🧬 HealthSANG — Mechanistic Genomic Explorer
+# 🧬 Brain-Database — Mechanistic Genomic Explorer
 
 A chatbot that sits on top of your HealthSANG SQLite database and answers biomedical questions using Claude AI.
 
